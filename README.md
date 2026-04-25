@@ -14,7 +14,7 @@ I’m an IT professional and Computer Science student based in Bangladesh, speci
 
 ### 🛠 Tech Stack & Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Cyber Security" />
+  <img src="https://img.shields.io/badge/Cyber_Security-28A745?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Cyber Security" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Photography-4285F4?style=for-the-badge&logo=google-photos&logoColor=white" alt="Photography" />
