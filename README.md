@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Jobayer Ahmmad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=550&lines=Cyber+Security+%26+Ethical+Hacker;WordPress+Security+Specialist;Photography+%26+Digital+Creator;Vibe+Coding+Enthusiast" alt="Jobayer Ahmmad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28A745&width=550&lines=Cyber+Security+%26+Ethical+Hacker;WordPress+Security+Specialist;Photography+%26+Digital+Creator;Vibe+Coding+Enthusiast" alt="Jobayer Ahmmad" />
 </p>
 
 ---
