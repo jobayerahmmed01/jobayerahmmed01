@@ -54,7 +54,3 @@ I’m an IT professional and Computer Science student based in Bangladesh, speci
 <p align="center">
   <b>🔐 Securing the Web | 🚀 Vibe Coding | 📸 Visual Storytelling</b>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lPjJp8UdMryGvC/giphy.gif" width="100" />
-</p>
