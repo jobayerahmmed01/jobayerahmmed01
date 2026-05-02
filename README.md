@@ -7,7 +7,7 @@
 
 ---
 
-## ⚡️ About Me
+## ⚡️ About Me.
 I’m an IT professional and Computer Science student based in Bangladesh, specializing in Cybersecurity and WordPress Security—focused on building and protecting secure digital environments. I work with a Vibe Coding mindset, blending logic with creative flow to craft smooth, secure web experiences. Alongside tech, I’m passionate about photography, capturing moments and transforming them into meaningful visual stories.
 
 ---
